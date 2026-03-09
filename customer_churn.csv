@@ -1,0 +1,121 @@
+CustomerID,Gender,Tenure,Contract,MonthlyCharges,PaymentMethod,Churn
+C1000,Female,41,Two year,66,Mailed check,No
+C1001,Female,16,Month-to-month,55,Bank transfer,No
+C1002,Male,46,Month-to-month,98,Bank transfer,No
+C1003,Male,9,Month-to-month,99,Credit card,No
+C1004,Male,23,Two year,74,Mailed check,No
+C1005,Male,44,One year,69,Mailed check,No
+C1006,Female,19,One year,26,Bank transfer,No
+C1007,Female,12,Two year,117,Credit card,No
+C1008,Female,41,Two year,118,Bank transfer,Yes
+C1009,Female,8,One year,115,Electronic check,Yes
+C1010,Male,35,One year,69,Credit card,Yes
+C1011,Female,50,Two year,49,Electronic check,No
+C1012,Male,32,One year,54,Electronic check,No
+C1013,Female,12,One year,74,Credit card,No
+C1014,Female,22,Month-to-month,79,Bank transfer,No
+C1015,Female,48,Month-to-month,117,Bank transfer,Yes
+C1016,Female,32,Two year,119,Bank transfer,No
+C1017,Male,27,One year,33,Bank transfer,No
+C1018,Female,21,Month-to-month,32,Mailed check,No
+C1019,Male,53,One year,67,Credit card,No
+C1020,Female,38,Month-to-month,103,Electronic check,Yes
+C1021,Female,40,One year,78,Bank transfer,Yes
+C1022,Male,4,Month-to-month,64,Mailed check,No
+C1023,Male,39,Month-to-month,86,Mailed check,No
+C1024,Female,5,Two year,51,Electronic check,No
+C1025,Female,43,Two year,55,Bank transfer,Yes
+C1026,Male,44,One year,70,Credit card,Yes
+C1027,Male,52,One year,110,Mailed check,No
+C1028,Male,40,One year,30,Electronic check,No
+C1029,Male,39,Month-to-month,111,Mailed check,Yes
+C1030,Female,43,One year,62,Electronic check,No
+C1031,Male,34,Two year,63,Bank transfer,Yes
+C1032,Male,59,Two year,55,Bank transfer,Yes
+C1033,Female,4,One year,62,Bank transfer,No
+C1034,Female,6,Two year,23,Electronic check,No
+C1035,Male,25,Month-to-month,113,Credit card,No
+C1036,Male,5,One year,84,Mailed check,No
+C1037,Female,47,One year,25,Credit card,Yes
+C1038,Female,7,Two year,30,Mailed check,No
+C1039,Female,32,Month-to-month,31,Credit card,No
+C1040,Female,20,One year,114,Mailed check,No
+C1041,Male,58,Two year,101,Electronic check,No
+C1042,Female,32,One year,102,Bank transfer,Yes
+C1043,Female,3,One year,85,Electronic check,Yes
+C1044,Female,17,Month-to-month,106,Electronic check,No
+C1045,Male,53,Month-to-month,54,Mailed check,No
+C1046,Male,47,Two year,34,Mailed check,No
+C1047,Female,13,Month-to-month,119,Bank transfer,No
+C1048,Female,51,Two year,106,Bank transfer,No
+C1049,Male,5,Two year,49,Bank transfer,No
+C1050,Male,27,Month-to-month,39,Bank transfer,Yes
+C1051,Male,16,One year,61,Electronic check,Yes
+C1052,Female,50,Two year,84,Bank transfer,No
+C1053,Female,40,One year,114,Bank transfer,No
+C1054,Female,47,One year,118,Credit card,Yes
+C1055,Male,9,One year,31,Mailed check,No
+C1056,Male,51,One year,41,Credit card,No
+C1057,Male,46,One year,41,Electronic check,Yes
+C1058,Female,59,Month-to-month,47,Credit card,No
+C1059,Male,16,One year,103,Credit card,No
+C1060,Female,42,Month-to-month,93,Credit card,No
+C1061,Male,46,Month-to-month,37,Mailed check,No
+C1062,Female,9,Two year,60,Electronic check,Yes
+C1063,Female,56,Month-to-month,99,Mailed check,Yes
+C1064,Male,18,Two year,30,Electronic check,No
+C1065,Male,23,Two year,69,Electronic check,No
+C1066,Female,57,Month-to-month,88,Electronic check,No
+C1067,Male,59,Month-to-month,33,Electronic check,No
+C1068,Female,54,Two year,50,Credit card,No
+C1069,Female,10,One year,102,Electronic check,Yes
+C1070,Female,58,One year,26,Electronic check,Yes
+C1071,Female,42,One year,107,Credit card,Yes
+C1072,Male,47,Month-to-month,41,Mailed check,No
+C1073,Female,27,Month-to-month,110,Mailed check,Yes
+C1074,Female,20,One year,100,Mailed check,No
+C1075,Male,33,One year,37,Bank transfer,Yes
+C1076,Female,44,Two year,57,Bank transfer,No
+C1077,Male,33,Month-to-month,90,Bank transfer,Yes
+C1078,Male,27,Two year,77,Mailed check,No
+C1079,Female,51,Two year,49,Bank transfer,Yes
+C1080,Female,9,Two year,67,Electronic check,No
+C1081,Female,13,Two year,76,Credit card,No
+C1082,Female,11,Two year,54,Credit card,No
+C1083,Female,41,One year,42,Credit card,No
+C1084,Female,35,One year,20,Bank transfer,No
+C1085,Female,10,Two year,42,Electronic check,No
+C1086,Female,55,One year,46,Bank transfer,No
+C1087,Male,38,Two year,20,Electronic check,No
+C1088,Female,7,Month-to-month,88,Bank transfer,No
+C1089,Male,23,One year,71,Electronic check,Yes
+C1090,Female,7,Month-to-month,71,Credit card,Yes
+C1091,Male,20,Two year,43,Mailed check,Yes
+C1092,Female,57,One year,67,Electronic check,No
+C1093,Female,19,Two year,83,Credit card,No
+C1094,Female,2,Two year,48,Credit card,No
+C1095,Female,5,Month-to-month,100,Mailed check,No
+C1096,Male,41,One year,93,Mailed check,Yes
+C1097,Male,18,Two year,66,Mailed check,No
+C1098,Male,7,Two year,82,Credit card,No
+C1099,Male,58,Month-to-month,74,Credit card,Yes
+C1100,Male,38,Month-to-month,100,Bank transfer,No
+C1101,Male,34,Month-to-month,74,Mailed check,Yes
+C1102,Female,19,Month-to-month,68,Credit card,No
+C1103,Female,21,Two year,71,Electronic check,No
+C1104,Female,27,One year,27,Electronic check,Yes
+C1105,Female,24,Two year,71,Mailed check,Yes
+C1106,Male,23,Two year,83,Electronic check,No
+C1107,Female,44,One year,84,Bank transfer,No
+C1108,Female,53,One year,108,Credit card,Yes
+C1109,Female,38,One year,73,Electronic check,No
+C1110,Male,11,One year,69,Credit card,Yes
+C1111,Male,9,One year,95,Bank transfer,No
+C1112,Female,27,Month-to-month,67,Credit card,Yes
+C1113,Male,36,Month-to-month,36,Electronic check,No
+C1114,Female,28,Month-to-month,58,Bank transfer,No
+C1115,Female,33,Two year,66,Mailed check,No
+C1116,Female,17,Month-to-month,79,Electronic check,No
+C1117,Male,54,One year,107,Credit card,No
+C1118,Male,56,One year,108,Electronic check,No
+C1119,Male,22,Month-to-month,72,Bank transfer,No
